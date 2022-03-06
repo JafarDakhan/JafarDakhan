@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JafarDakhan
-- 👀 I’m interested in game development, AI, And security.
-- 🌱 I’m currently learning how to make games in Unity and Monogame.
+- Hi, I’m @JafarDakhan
+- I program stuff.. Mostly games.
+- I also make art and music, Sometimes.
 - 📫 You can find me on Twitter: https://twitter.com/Jafar_Dakhan
 
 <!---
