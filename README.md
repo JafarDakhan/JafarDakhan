@@ -1,5 +1,5 @@
 - Hi, I’m @JafarDakhan
-- I program... Mostly games and low level stuff.
+- I program... Mostly games or low level stuff.
 - I also make art and music, Sometimes.
 - 📫 You can find me on Twitter: https://twitter.com/Jafar_Dakhan
 
